@@ -1,0 +1,20 @@
+{
+    "path_img": "img.png",
+    "output_file": "out.txt",
+    "headers": {
+        "accept": "*/*",
+        "accept-language": "en-GB,en-US;q=0.9",
+        "authorization": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "content-type": "application/json",
+        "sec-ch-ua": "\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Linux\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "x-debug-options": "bugReporterEnabled",
+        "x-discord-locale": "en-US",
+        "x-discord-timezone": "Europe/London",
+        "x-super-properties": "eyJvcyI6Ik5pZ2dlck9TIiwiYnJvd3NlciI6IkRpc2NvcmQgQ2xpZW50IiwicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwiY2xpZW50X3ZlcnNpb24iOiIxLjAuOTAwNSIsIm9zX3ZlcnNpb24iOiIxMC4wLjIyMDAwIiwib3NfYXJjaCI6Ing2NCIsInN5c3RlbV9sb2NhbGUiOiJlbi1VUyIsImNsaWVudF9idWlsZF9udW1iZXIiOjE0MDU3NSwiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0="
+    }
+}
